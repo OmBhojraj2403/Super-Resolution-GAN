@@ -83,10 +83,10 @@ python evaluate.py
 
 | Original High Resolution images      | GAN-Generated Super Resolution images |
 | --------------------------- | --------------------------------- |
-| ![](DIV2K\DIV2K_valid_HR/0859.png)      | ![](valid_results/sr_X4_0859x4.png)       |
-| ![](DIV2K\DIV2K_valid_HR/0855.png)      | ![](valid_results/sr_X4_0855x4.png)       |
-| ![](DIV2K\DIV2K_valid_HR/0891.png)      | ![](valid_results/sr_X4_0891x4.png)       |
-| ![](DIV2K\DIV2K_valid_HR/0863.png)      | ![](valid_results/sr_X4_0863x4.png)       |
-| ![](DIV2K\DIV2K_valid_HR/0878.png)      | ![](valid_results/sr_X4_0878x4.png)       |
+| ![](readme_utils/0859.png)      | ![](valid_results/sr_X4_0859x4.png)       |
+| ![](readme_utils/0855.png)      | ![](valid_results/sr_X4_0855x4.png)       |
+| ![](readme_utils/0891.png)      | ![](valid_results/sr_X4_0891x4.png)       |
+| ![](readme_utils/0863.png)      | ![](valid_results/sr_X4_0863x4.png)       |
+| ![](readme_utils/0878.png)      | ![](valid_results/sr_X4_0878x4.png)       |
 
 
